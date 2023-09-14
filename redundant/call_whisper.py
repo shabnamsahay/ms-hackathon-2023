@@ -1,6 +1,6 @@
 import openai
 # add your API key here
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 # transcript using openai module
 audio_file = open("./sample_audio_1.mp3", "rb")
