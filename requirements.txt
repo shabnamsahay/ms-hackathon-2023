@@ -1,0 +1,6 @@
+sounddevice
+wavio
+whisper
+pandas
+scipy
+openai
